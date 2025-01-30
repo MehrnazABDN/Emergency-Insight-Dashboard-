@@ -28,5 +28,5 @@ This dashboard can be used to:
 - Understand demographic trends in ER visits for targeted healthcare interventions.
 
 ### Dashboard Image:
-![Dashboard Image]("C:\Users\mehrn\Downloads\ER_Dashboard.jpg")  
+![Dashboard Image](./images/dashboard_image.png)
 
