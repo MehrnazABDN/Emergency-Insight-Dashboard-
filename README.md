@@ -19,8 +19,7 @@ This project uses **synthetic data** generated from the World Fake Data website,
 
 ## Tools & Technologies  
 - **Power BI** – Dashboard creation and visualization  
-- **Python (Pandas, Matplotlib, Seaborn)** – Data preprocessing and exploratory analysis  
-- **SQL** – Data querying and structuring  
+
 
 ## Use Case  
 This dashboard can be used to:  
@@ -28,14 +27,3 @@ This dashboard can be used to:
 - Analyze wait time patterns to enhance patient flow management.  
 - Understand demographic trends in ER visits for targeted healthcare interventions.  
 
-## How to Use  
-1. Open the Power BI file (`Emergency_Insight_Dashboard.pbix`).  
-2. Explore the interactive visualizations and filters.  
-3. Modify or update the dataset for further analysis.  
-
-## Future Improvements  
-- Incorporate real-time data streaming for live insights.  
-- Expand analysis to include readmission rates and diagnosis patterns.  
-- Develop a web-based interactive version using **Dash** or **Streamlit**.  
-
-## Repository Structure  
