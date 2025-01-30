@@ -25,5 +25,8 @@ This project uses **synthetic data** generated from the World Fake Data website,
 This dashboard can be used to:  
 - Identify peak ER hours and improve resource allocation.  
 - Analyze wait time patterns to enhance patient flow management.  
-- Understand demographic trends in ER visits for targeted healthcare interventions.  
+- Understand demographic trends in ER visits for targeted healthcare interventions.
+
+### Dashboard Image:
+![Dashboard Image]("C:\Users\mehrn\Downloads\ER_Dashboard.jpg")  
 
