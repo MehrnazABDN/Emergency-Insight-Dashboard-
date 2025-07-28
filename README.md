@@ -27,6 +27,7 @@ This dashboard can be used to:
 - Analyze wait time patterns to enhance patient flow management.  
 - Understand demographic trends in ER visits for targeted healthcare interventions.
 
-### Dashboard Image:
-![Dashboard Image](./images/dashboard_image.png)
+### Interactive Dashboard
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZDFmZGMwMDctOTFmNC00NTgxLTgzNmMtZmUyNmVkOWI0ZWExIiwidCI6IjllZjlmNDg5LWUwYTAtNGVlYi04N2NjLTNhNTI2MTEyZmQwZCIsImMiOjF9)
+
 
